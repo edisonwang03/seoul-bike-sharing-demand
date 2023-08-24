@@ -15,6 +15,8 @@ The following libraries were used in this project:
 ## Results
 The best model that I found was a random forest regressor. It has a root mean squared error of 233.76.
 
+![image](https://github.com/edisonwang03/seoul-bike-sharing-demand/assets/49788106/cbc4b1ca-b4c5-4e25-84e2-ed329e202bd7)
+
 ## Future Work
 Some possible future work for this project includes:
 - Using more data to train the model
