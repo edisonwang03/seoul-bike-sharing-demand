@@ -4,7 +4,7 @@
 This project uses machine learning to predict the number of bikes rented per hour in the Seoul Bike Sharing System.
 
 ## Data
-The data used for this project is from the UCI Machine Learning Repository. It contains 8760 observations, each of which represents the number of bikes rented per hour in Seoul, South Korea. The data also includes weather information (temperature, rainfall, etc.) as well as date information (time of day, functioning days, etc.). The link is as follows: [https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F560%2Fseoul%2Bbike%2Bsharing%2Bdemand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
+The data used for this project is from the UCI Machine Learning Repository. It contains 8760 observations, each of which represents the number of bikes rented per hour in Seoul, South Korea. The data also includes weather information (temperature, rainfall, etc.) as well as date information (time of day, functioning days, etc.). The link is as follows: [https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
 
 ## Libraries
 The following libraries were used in this project:
