@@ -1,4 +1,4 @@
-# Seoul Bike-Sharing Demand Regression Model
+# Seoul Bike-Sharing Demand Model
 
 ## Seoul Bike Sharing Demand Prediction
 This project uses machine learning to predict the number of bikes rented per hour in the Seoul Bike Sharing System.
